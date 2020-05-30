@@ -1,10 +1,11 @@
 # Test2 README
-[Fintech](download.png)
+![Fintech](images/download.png)
 
 ## This is a readme for the class work
 
 ### Table of contents
-[Code](code)
-[Data](data)
-[Images](images)
-[Referrences](referrences)
+
+* [Code](code/)
+* [Data](data/)
+* [Images](images/)
+* [Referrences](referrences/)
